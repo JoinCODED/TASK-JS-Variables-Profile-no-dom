@@ -10,6 +10,7 @@
  */
 
 // Part 1 answer 👇🏻 ...
+const fullName = "Aziz Alsaffar"
 
 /**
  * Part 2: String Interpolation
@@ -52,7 +53,7 @@ function decrementBy2() {
 // TODO: Uncomment these variables as you work on them
 // Make sure they're all uncommented before you push your solution!
 module.exports = {
-  // fullName,
+  fullName,
   // yearOfBirth,
   // hobby,
   // funFact,
